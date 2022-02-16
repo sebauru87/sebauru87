@@ -14,6 +14,8 @@ JavaScript (ES6+), React.js, Next.js Node.js, Express, MySQL, MongoDB, Firebase 
 Skills:
 Teamwork, Leadership, Communication, Crew Resource management, Multi-cultural experience, Decision making
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebauru87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebauru87&show_icons=true&theme=merko)
 
 <!--
