@@ -20,7 +20,7 @@ Teamwork, Leadership, Communication, Crew Resource management, Multi-cultural ex
 |-|-|-|
 |[![Arnab's github stats](https://github-readme-stats.vercel.app/api?username=sebauru87&show_icons=true&theme=dark&hide_title=true)](https://github.com/sebauru87)|![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=sebauru87&theme=dark)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebauru87&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/sebauru87)
 
-- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/sebastian-ferreira-bonifacino) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/MartinCoimbra/)
+- 📫 Cómo contactarme: [Linkedin](https://www.linkedin.com/in/sebastian-ferreira-bonifacino) [![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/sebastian-ferreira-bonifacino/)
 
 <!--
 **sebauru87/sebauru87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
