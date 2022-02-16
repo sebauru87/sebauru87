@@ -14,7 +14,7 @@ JavaScript (ES6+), React.js, Next.js Node.js, Express, MySQL, MongoDB, Firebase 
 Skills:
 Teamwork, Leadership, Communication, Crew Resource management, Multi-cultural experience, Decision making
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebauru87)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebauru87&show_icons=true&theme=merko)
 
 <!--
 **sebauru87/sebauru87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
