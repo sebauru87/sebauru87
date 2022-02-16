@@ -9,7 +9,7 @@ I'm highly motivated to learn new software technologies and I consider myself a 
 I'm currently working as a Full Stack developer, where I can both utilize my engineering skills and bring my knowledge and expertise gained through my aviation experience.
 
 Technologies: 
-JavaScript (ES6+), React.js, Next.js Node.js, Express, MySQL, MongoDB, Firebase HTML, CSS
+JavaScript (ES6+), React.js, Next.js, Node.js, Express, MySQL, MongoDB, Firebase, HTML, CSS
 
 Skills:
 Teamwork, Leadership, Communication, Crew Resource management, Multi-cultural experience, Decision making
