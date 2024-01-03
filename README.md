@@ -1,18 +1,14 @@
-### Hi there 👋 I'm a versatile and results driven Full Stack developer and airline pilot.
+### Hi there 👋 I'm a Versatile and Driven Full Stack Software Engineer and Airline Pilot.
 
-Programming and flying have always been my two passions. Although I have been programming as a hobby since I was 12, after graduating from high school I decided to become an airline pilot. This choice made me spend 15 years in the airline industry, working and living in places such as Dubai, England and Panama.
+As a Full Stack Software Engineer and airline pilot, I have always had a passion for both programming and flying. Even at the young age of 12, I was programming as a hobby. However, after completing high school, I chose to pursue a career as an airline pilot, which led me on a 15-year journey working and living in places like Dubai, England, and Panama.
 
-In 2020 I decided to change my career path and return to programming. I enrolled myself and completed a full-time Coding Bootcamp, where I invested over 650 hours learning about React.js, Node.js and databases.
-
-I'm highly motivated to learn new software technologies and I consider myself a natural problem-solver.
-
-I'm currently working as a Full Stack developer, where I can both utilize my engineering skills and bring my knowledge and expertise gained through my aviation experience.
+In 2020, I decided to switch gears and return to my roots in programming. I'm highly motivated to learn new software technologies and I take pride in my natural problem-solving abilities. My goal is to continue growing as a Full Stack developer, where I can utilize my engineering skills and bring my knowledge and expertise gained from my experience.
 
 Technologies: 
-JavaScript (ES6+), React.js, Next.js, Node.js, NestJS, GraphQL, Express, Unit Testing, MySQL, MongoDB, Firebase, AWS, Kubernetes, Microservices, HTML, CSS
+JavaScript (ES6+), TypeScript, React.js, Next.js, Node.js, NestJS, GraphQL, Express, JWT, Unit Testing, Jest, SQL, MongoDB, Firebase, AWS, Kubernetes, Microservices, Apollo
 
 Skills:
-Teamwork, Leadership, Communication, Crew Resource management, Multi-cultural experience, Decision making
+Teamwork, Leadership, Communication, Crew Resource Management, Multi-cultural experience, Decision making, Critical thinking, Problem-solving
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebauru87&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
