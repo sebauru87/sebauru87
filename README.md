@@ -1,8 +1,13 @@
-### Hi there 👋 I'm a Versatile and Driven Full Stack Software Engineer and Airline Pilot.
+### Hi there 👋 I'm a Senior Full-Stack Software Engineer & Technical Leader  |  Former Airline Pilot.
 
-As a Full Stack Software Engineer and airline pilot, I have always had a passion for both programming and flying. Even at the young age of 12, I was programming as a hobby. However, after completing high school, I chose to pursue a career as an airline pilot, which led me on a 10-year journey working and living in places like Dubai, England, and Panama.
+I am a versatile and driven Full-Stack Software Engineer with a unique background as both a software architect and a former airline pilot. My journey has taken me from the skies to the cloud, combining precision, discipline, and problem-solving skills  developed over 10 years of aviation with a deep passion for engineering and innovation.
 
-In 2020, I decided to switch gears and return to my roots in programming. I'm highly motivated to learn new software technologies and I take pride in my natural problem-solving abilities. My goal is to continue growing as a Full Stack developer, where I can utilize my engineering skills and bring my knowledge and expertise gained from my experience.
+Since returning full-time to software development in 2020, I've led and contributed to impactful projects across web, mobile, and backend ecosystems, helping teams deliver high-quality products through thoughtful architecture, strong 
+communication, and technical leadership.
+
+I take pride in fostering collaboration, mentoring engineers, and ensuring technical decisions align with business goals. My 
+objective is to continue growing as a technical leader, designing end-to-end solutions that make technology seamless, 
+scalable, and meaningful.
 
 Technologies: 
 JavaScript (ES6+), TypeScript, React.js, React Native, Next.js, Node.js, NestJS, GraphQL, Express, JWT, Unit Testing, Jest, SQL, MongoDB, Firebase, AWS, Kubernetes, Microservices, Apollo
